@@ -2078,5 +2078,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-10-05T04:08:36.226Z"
+  },
+  "muuy9fa2ml2p1": {
+    "job_id": "muuy9fa2ml2p1",
+    "release_id": 403481591,
+    "release_tag": "build-muuy9fa2ml2p1",
+    "run_id": 37279984456,
+    "user_id": 5792653750,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-05T07:50:22.074Z"
   }
 }
