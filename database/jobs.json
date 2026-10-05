@@ -2056,5 +2056,16 @@
     "status": "success",
     "created_at": "2026-10-04T17:35:12.598Z",
     "completed_at": "2026-10-04T17:42:49.247Z"
+  },
+  "muuq5by0f7giu": {
+    "job_id": "muuq5by0f7giu",
+    "release_id": 403355486,
+    "release_tag": "build-muuq5by0f7giu",
+    "run_id": 37261856937,
+    "user_id": 5792653750,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-05T04:03:14.323Z"
   }
 }
