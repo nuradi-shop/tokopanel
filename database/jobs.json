@@ -2067,5 +2067,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-10-05T04:03:14.323Z"
+  },
+  "muuqc864npu55": {
+    "job_id": "muuqc864npu55",
+    "release_id": 403358254,
+    "release_tag": "build-muuqc864npu55",
+    "run_id": 37262221277,
+    "user_id": 5792653750,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-05T04:08:36.226Z"
   }
 }
